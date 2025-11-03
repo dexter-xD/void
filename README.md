@@ -44,7 +44,7 @@ cd build && make run
 anvil -w void.conf
 
 # or watch & run mode (auto-rebuild and execute)
-anvil -w void.conf
+anvil -wr void.conf
 
 ```
 
